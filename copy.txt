@@ -1,0 +1,26 @@
+  <div class="middle">
+    <div class="profile">
+      <img src="images/jaxl-modified.png" alt="profilepic" height="150" width="150">
+      <h2>Hello.</h2>
+      <p>Welcome to my Resume Webpage.</p>
+    </div>
+    <hr>
+    <div class="skills">
+      <h2>My Skills.</h2>
+      <div class="skill-row">
+        <h3><span><img class="yellow-gear" src="css/yellow-gear.gif" alt="moving_gear.gif" height="25" width="25"></span>Atom <span><img src="images/atom-logo.png" alt="atom-logo.png" height="15" width="15"></span></h3>
+        <p>Basic knowledge of web designing specifically on html and css.</p>
+      </div>
+      <div class="skill-row">
+        <h3><span><img class="yellow-gear" src="css/yellow-gear.gif" alt="moving_gear.gif" height="25" width="25"></span>Google Earth <span><img src="images/google-earthpro.png" alt="google-earthpro.png" height="15" width="15"></span></h3>
+        <p>Basic plotting and measuring distance and path from one place to another.</p>
+      </div>
+    </div>
+    <hr>
+    <div class="contact-me">
+      <h2>Get In Touch</h2>
+      <h3>Mobile number: (+63)977-750-3406</h3>
+      <p class="address">541 Concha Street, Brgy. 62, Zone-6, District 1, Tondo, Manila, NCR, Philippines, 1012.</p>
+      <a class="btn" href="mailto:jaxl.johm.hilario@gmail.com">CONTACT ME</a>
+    </div>
+  </div>
