@@ -1,6 +1,8 @@
 .Top{
   background-color: #4D96FF;
-
+}
+.profile{
+  margin: 100px auto;
 }
 .bottom{
   padding: 20px 0 10px 0;
@@ -16,12 +18,17 @@
   left: 475px;
 }
 .footer-link{
+  text-decoration: none;
   color: #EAF6F6;
+  margin: auto 40px;
 }
 .RF{
   color: #FFF5B7;
 }
 
+.pogi{
+  margin: 20px auto;
+}
 
 .address{
   font-size: 0.75rem;
@@ -35,27 +42,36 @@
   font-family: 'Comfortaa', cursive;
   margin: 0 auto 0 auto;
 }
-
+.skills{
+  margin-top: 100px;
+}
 .skill-row{
   font-family: 'Comfortaa', cursive;
   text-align: left;
   width: 50%;
   position: relative;
-  margin: 100px auto 100px auto;
+  margin: 50px auto 200px auto;
 }
 
-.chilli{
-  width: 25%;
+.coding-img{
+  width: 20%;
   float: left;
-  margin: 30px;
+  margin-right: 20px;
 }
-.computer{
+.lte-signal{
   width: 25%;
   float: right;
   margin-left: 20px;
 }
 
+.lte-signal2  {
+  width: 25%;
+  float: left;
+  margin-right: 20px;
+}
+
 .contact-me{
+  margin-top: 100px;
   margin-bottom: 30px;
 }
 
@@ -63,12 +79,12 @@
   font-family: 'Comfortaa', cursive;
 }
 
-.googleearth{
+.righty{
   color: #11999E;
   font-weight: bold;
 }
 
-.atom{
+.lefty{
   color: #11999E;
   font-weight: bold;
 }
